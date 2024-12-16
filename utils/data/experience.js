@@ -1,20 +1,32 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'Mobile Development Tech Lead',
+    company: "Wharf Street Studios · Full-time",
+    duration: "(Jun 2024 - Present)"
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: "Senior Android Developer",
+    company: "Wharf Street Strategies · Full-time",
+    duration: "(Dec 2022 - Aug 2024)"
   },
   {
     id: 3,
+    title: "Android Application Developer",
+    company: "Wharf Street Strategies · Full-time",
+    duration: "(Jun 2020 - Jun 2023)"
+  },
+  {
+    id: 4,
+    title: "Junior Android Application Developer",
+    company: "S-IT Infotech · Full-time",
+    duration: "(Mar 2019 - May 2024)"
+  },
+  {
+    id: 5,
     title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    company: "Code and build something in everyday",
+    duration: "(Aug 2017 - Present)"
   }
 ]
