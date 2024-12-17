@@ -21,7 +21,7 @@ export const experiences = [
     id: 4,
     title: "Junior Android Application Developer",
     company: "S-IT Infotech · Full-time",
-    duration: "(Mar 2019 - May 2024)"
+    duration: "(Mar 2019 - May 2020)"
   },
   {
     id: 5,
