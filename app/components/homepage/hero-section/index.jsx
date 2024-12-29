@@ -137,6 +137,7 @@ function HeroSection() {
                 <span className="text-amber-300">⚙️IntelliJ IDEA</span>
                 <span className="text-gray-400">{"',"}</span>
                 <span className="text-amber-300">🌐GitHub</span>
+                <span className="text-gray-400">{"',"}</span>
                 <span className="text-amber-300">🔥Firebase</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
