@@ -29,7 +29,7 @@ export const personalData = {
   descriptionFive:"--> 🦢 Swift : Knowledgeable in Swift for iOS Apps.",
   descriptionSix:"--> 🌟 Compose Multiplatform : Using Compose to build Cross-Platform Apps.",
   descriptionSeven:"--> 🔗 🧩 Kotlin Multiplatform : Leveraging Kotlin for shared code across Platforms.",
-  descriptionEight:"--> I work at 🧲 Wrxflo Software India Private Limited, where we create Innovative and Impactful Mobile Solutions.",
+  descriptionEight:"--> I work at 🧲 Wrxflo Software India Pvt. Ltd. where we create Innovative and Impactful Mobile Solutions.",
   email: 'saleem773@gmail.com',
   phone: '+91-8879054528',
   address: 'Mumbai, Maharashtra, India - 400043 ',
